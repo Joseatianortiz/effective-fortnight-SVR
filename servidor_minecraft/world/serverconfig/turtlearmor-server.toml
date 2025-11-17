@@ -1,0 +1,9 @@
+
+["Armor Effects"]
+	# Disables Dolphin's Grace armor effect
+	disableDolphinsGrace = false
+	# Disables Resistance armor effect
+	disableResistance = false
+	# Disables Slowness armor effect
+	disableSlowness = false
+
